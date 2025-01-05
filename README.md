@@ -1,7 +1,7 @@
-# Spotify Web Player Clone
+# Spotify Web Page Clone
 
 ## Overview
-This repository contains the source code for a Spotify Web Player UI clone. The project is a front-end only implementation designed to mimic Spotify's web player interface using HTML and CSS.
+This repository contains the source code for a Spotify Web Page UI clone. The project is a front-end only implementation designed to mimic Spotify's web player interface using HTML and CSS.
 
 ## Features
 - Sidebar navigation for easy access to Home, Search, and Library sections.
